@@ -1,0 +1,16 @@
+../ThirdParty/Si5351-lib/src/si5351.c:30:5:Si5351_WriteRegister	32	static
+../ThirdParty/Si5351-lib/src/si5351.c:107:9:Si5351_ReadRegister	32	static
+../ThirdParty/Si5351-lib/src/si5351.c:246:6:Si5351_StructInit	20	static
+../ThirdParty/Si5351-lib/src/si5351.c:303:6:Si5351_OSCConfig	16	static
+../ThirdParty/Si5351-lib/src/si5351.c:348:13:Si5351_CheckStatusBit	8	static
+../ThirdParty/Si5351-lib/src/si5351.c:357:13:Si5351_CheckStickyBit	8	static
+../ThirdParty/Si5351-lib/src/si5351.c:366:6:Si5351_InterruptConfig	8	static
+../ThirdParty/Si5351-lib/src/si5351.c:404:6:Si5351_ClearStickyBit	16	static
+../ThirdParty/Si5351-lib/src/si5351.c:413:6:Si5351_PLLConfig	32	static
+../ThirdParty/Si5351-lib/src/si5351.c:472:6:Si5351_PLLReset	16	static
+../ThirdParty/Si5351-lib/src/si5351.c:487:6:Si5351_PLLSimultaneousReset	8	static
+../ThirdParty/Si5351-lib/src/si5351.c:497:6:Si5351_SSConfig	32	static
+../ThirdParty/Si5351-lib/src/si5351.c:635:6:Si5351_MSConfig	48	static
+../ThirdParty/Si5351-lib/src/si5351.c:725:6:Si5351_CLKPowerCmd	32	static
+../ThirdParty/Si5351-lib/src/si5351.c:778:6:Si5351_CLKConfig	24	static
+../ThirdParty/Si5351-lib/src/si5351.c:825:5:Si5351_Init	16	static

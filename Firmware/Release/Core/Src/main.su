@@ -1,0 +1,11 @@
+../Core/Src/main.c:73:6:SetFrequency	48	static
+../Core/Src/main.c:157:6:SelectOsc	16	static
+../Core/Src/main.c:179:6:ShowCurrentOscConfig	24	static
+../Core/Src/main.c:211:9:DebounceButton	16	static
+../Core/Src/main.c:226:6:IncrementChar	8	static
+../Core/Src/main.c:241:6:DecrementChar	8	static
+../Core/Src/main.c:256:6:SelectChar	8	static
+../Core/Src/main.c:270:6:ShowEditOscConfig	16	static
+../Core/Src/main.c:409:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Core/Src/main.c:309:5:main	56	static,ignoring_inline_asm
+../Core/Src/main.c:568:6:Error_Handler	0	static,ignoring_inline_asm

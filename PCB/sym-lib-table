@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MultiOscParts")(type "KiCad")(uri "${KIPRJMOD}/MultiOscParts.kicad_sym")(options "")(descr ""))
+)
